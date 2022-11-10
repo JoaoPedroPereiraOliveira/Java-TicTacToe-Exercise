@@ -1,2 +1,2 @@
 # Java-TicTacToe-Exercise
-Project from Jetbrains Academy
+This project aimed to form and was used as, an assessment on the platform JetBrains Academy.
